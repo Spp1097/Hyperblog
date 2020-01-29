@@ -1,6 +1,5 @@
 Mi nombre es Santiago Pulido Pelaez, naci en medellin colombia
 Estudio 6to semestre de ingenieria electronica en la universidad de antioquia
 
-Actualmente estudio Data Science e inteligencia artificial
-
-A la par realizo un curso de git, y es interasnte poder ver como cambia todo entre ramas 
+Actualmente estudio Data Science e inteligencia artificial.
+Muy motivado por los grandes aprendizajes estos dias
