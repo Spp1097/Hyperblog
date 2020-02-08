@@ -5,4 +5,5 @@ Actualmente estudio Data Science e inteligencia artificial.
 Muy motivado por los grandes aprendizajes estos dias.
 Es posible migrar hacia DataCamp
 
-Ahora tambien ensayo salsa los fines de semana
+Ahora tambien ensayo salsa los fines de semana.
+Este es el primer cambio en este archivo desde github.
