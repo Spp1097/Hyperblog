@@ -1,2 +1,0 @@
-Esta es un prueba de las ramas de git.
-Estoy modificando el archivo en la rama master.
